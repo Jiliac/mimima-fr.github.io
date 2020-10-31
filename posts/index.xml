@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Valentin Manes</title>
-    <link>https://mimima.fr/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Valentin Manes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <copyright> </copyright>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mimima.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Je suis content</title>
-      <link>https://mimima.fr/2020/10/je-suis-content/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Laïcité: Une Nouvelle Forme de Colonialisme?</title>
+      <link>/2020/10/la%C3%AFcit%C3%A9-une-nouvelle-forme-de-colonialisme/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mimima.fr/2020/10/je-suis-content/</guid>
-      <description>Je dis quelque chose?</description>
+      <guid>/2020/10/la%C3%AFcit%C3%A9-une-nouvelle-forme-de-colonialisme/</guid>
+      <description>&lt;strong&gt;La majorité ne devrait pas supprimer les droits des minorités.&lt;/strong&gt; &lt;img src=&#34;/images/femme-voilee.jpg&#34; alt=&#34;Femme Voilee&#34;&gt;</description>
     </item>
     
   </channel>
